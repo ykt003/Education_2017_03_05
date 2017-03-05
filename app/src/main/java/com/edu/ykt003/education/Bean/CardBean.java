@@ -1,7 +1,7 @@
 package com.edu.ykt003.education.Bean;
 
 /**
- * 
+ * 卡片
  * @author YL
  * @date 2017/2/28 10:51
  */
