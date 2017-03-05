@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Education</string>
+    <string name="crash_wrong">很抱歉,程序出现异常,即将退出.</string>
+</resources>

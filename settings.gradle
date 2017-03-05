@@ -1,0 +1,1 @@
+include ':app', ':xrecyclerview', ':banner', ':InitActivity', ':jjdxm-ijkplayer', ':jcvideoplayer-lib'
